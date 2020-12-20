@@ -5,4 +5,4 @@ services:
     ports:
       - "8080:8080"
     environment:
-      - MONGO_URI=mongodb+srv://stationf:adminrootnimda@cluster0.ypxwr.mongodb.net/Cluster0?retryWrites=true&w=majority
+      - MONGO_URI=
